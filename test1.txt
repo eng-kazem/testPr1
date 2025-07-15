@@ -1,3 +1,4 @@
 first f
 second line
 new branch
+second way
